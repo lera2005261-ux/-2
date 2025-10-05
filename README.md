@@ -20,7 +20,7 @@
         
         header {
             background: linear-gradient(135deg, #00274D 0%, #0056b3 100%);
-            color: white;
+            color: rgb(17, 12, 54);
             padding: 2rem 0;
             text-align: center;
             box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
@@ -41,7 +41,7 @@
         
         .logo-icon {
             font-size: 2.8rem;
-            color: #fff;
+            color: #000000;
         }
         
         .currency-notice {
@@ -56,7 +56,7 @@
         .tabs-container {
             max-width: 1400px;
             margin: 2rem auto;
-            background: white;
+            background: rgb(255, 255, 255);
             border-radius: 10px;
             box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
             overflow: hidden;
